@@ -13,19 +13,6 @@ Analyze a dataset of Amazon product reviews to clean and preprocess the review t
 - Visualize sentiment distribution and trends
 - Generate insights for product improvement and customer satisfaction
 
-## 🗂️ Repository Structure
-```
-amazon-sentiment-analysis/
-│
-├── notebooks/
-│   └── Project_2.ipynb            # Text cleaning, sentiment classification, EDA
-├── data/
-│   ├── raw_reviews.csv            # Raw Amazon reviews dataset
-│   └── processed_reviews.csv      # Cleaned reviews with sentiment labels
-├── images/
-│   └── project_overview.png       # Project brief / description
-├── requirements.txt               # Python dependencies
-└── README.md
 ```
 
 ## 🛠️ Tools & Technologies
@@ -61,7 +48,7 @@ amazon-sentiment-analysis/
    ```bash
    pip install -r requirements.txt
    ```
-3. Open `notebooks/Project_2.ipynb` in Jupyter Notebook / JupyterLab and run the cells
+3. Open `notebooks/Amazon Customer Sentiment Analysis.ipynb` in Jupyter Notebook / JupyterLab and run the cells
 
 ## 📌 Notes
 - Update the raw data source path in the notebook if you re-run it with your own dataset.
