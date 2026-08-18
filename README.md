@@ -1,4 +1,4 @@
-# 🛒 Amazon Customers Sentiment Analysis — Project 2
+# 🛒 Amazon Customers Sentiment Analysis 
 
 A Natural Language Processing (NLP) project that analyzes Amazon product reviews to classify customer sentiment (positive, negative, neutral) and surface actionable insights for product improvement and customer satisfaction.
 
