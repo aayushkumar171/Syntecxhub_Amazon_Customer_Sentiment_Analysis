@@ -48,7 +48,7 @@ Analyze a dataset of Amazon product reviews to clean and preprocess the review t
    ```bash
    pip install -r requirements.txt
    ```
-3. Open `notebooks/Amazon Customer Sentiment Analysis.ipynb` in Jupyter Notebook / JupyterLab and run the cells
+3. Open `Jupyter_Notebook/Amazon Customer Sentiment Analysis.ipynb` in Jupyter Notebook / JupyterLab and run the cells
 
 ## 📌 Notes
 - Update the raw data source path in the notebook if you re-run it with your own dataset.
